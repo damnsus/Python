@@ -1,3 +1,3 @@
 # Python
 
-Here I will contain every python code I have
+Here I will store every Python code I have
